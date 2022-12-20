@@ -12,9 +12,7 @@ Imagine that we are teaching two classes - one at Bush School and another for Bo
 
 ### Login to JupyterLab using the username assigned to you for each course you have registered for. Make sure it works and should give you an empty folder structure for each course.
 
-#### [Boyce Astro Astronomy Course Login](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdrunarayan%2Fpython4astronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fpython4astronomy%2Fbasics_jupyterlab_notebook?reset)
-
-#### [Bush School Astronomy Course Login](https://bushastrolab.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fchandrunarayan%2Fastronomy&branch=gh-pages&urlpath=lab%2Ftree%2Fastronomy%2Fprojects%2Fintro_to_jupyter%2Fintro_to_jupyter.ipynb?reset)
+#### [Boyce Astro or Bush School Astronomy Course Login](https://bushastrolab.com/hub/login?next=%2Fhub%2F)
 
 ### Access the courses materials for each project below using the login given to you as part of this demo.  
 
