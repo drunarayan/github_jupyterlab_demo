@@ -8,7 +8,7 @@ The system is configured such that folders of content can be generated in 2 ways
 
 The advantage is that some of the content will be shared from the common, protected shared location such that users will only have read access. This is good for large amounts of data as well as data that does not need to be replicated across multiple users and multiple projects. Also this data can be changed once by administrators (instructors) and will immediately be visible to all students. 
 
-Imagine that we are teaching two classes - one at Bush School and another for Boyce Astro.  The 2 courses will sahre some of the content and other materials are specific to the user.  The can be distributed as a reference owned by the instructor or as a copy owned by the user.  
+Imagine that we are teaching two classes - one at Bush School and another for Boyce Astro.  The 2 courses will share some of the content and other materials are specific to the user.  The can be distributed as a reference owned by the instructor or as a copy owned by the user.  
 
 ### Login to JupyterLab using the username assigned to you for each course you have registered for. Make sure it works and should give you an empty folder structure for each course.
 
