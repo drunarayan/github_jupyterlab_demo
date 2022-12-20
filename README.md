@@ -12,5 +12,5 @@ Imagine that we are teaching two classes - one at Bush School and another for Bo
 
 ## Access the courses below using the login given to you as part of this demo.  Login to JupyterLab using the username assigned to you.
 
-### [Bush School Astronomy Course](https://chandrunarayan.github.io/astronomy/)
-### [Boyce Astro Python for Astronomy Course](https://drunarayan.github.io/python4astronomy/)
+#### [Bush School Astronomy Course](https://chandrunarayan.github.io/astronomy/)
+#### [Boyce Astro Python for Astronomy Course](https://drunarayan.github.io/python4astronomy/)
